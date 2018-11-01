@@ -1,0 +1,11 @@
+td.details-control {
+    /*background: #ccc;*/
+    cursor: pointer;
+}
+
+.selected_row {
+    background: #E6FFE6;
+}
+.container table tr td:first-child{
+    text-align: center;
+}
